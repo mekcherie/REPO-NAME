@@ -4,7 +4,7 @@ import './Title.css';
 function Title() {
     return (
         <div className="Title">
-            <h1>REACTAPP</h1>
+            <h1>SFPOPOS</h1>
                 <div classNmae="Title-Subtitle">San Franciscos Privately Owned Public Spaces</div>
         </div>
     )
